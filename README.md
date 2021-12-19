@@ -25,6 +25,6 @@ $ git push heroku HEAD:master
 
 Note:
 
-- jenizar-sapui5-mockd is name your apps in the url, example: https://jenizar-sapui5-mockd.herokuapp.com
+- jenizar-sapui5-mockd is name your apps in the url, open your browser: https://jenizar-sapui5-mockd.herokuapp.com
 
 - cause this apps using html static therefore utilize php buildpack. 
