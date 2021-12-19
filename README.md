@@ -1,5 +1,5 @@
-# heroku-sap-fiori
-Deploy SAP Fiori to Heroku cloud
+# heroku-sap-ui5-mockd-internal
+Deploy SAP Fiori Master-Detail Mockdata Internal to Heroku cloud
 
 # Deploy to Heroku cloud
 
