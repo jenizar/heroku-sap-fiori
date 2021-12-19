@@ -40,3 +40,13 @@ https://jenizar-sapui5-mockd.herokuapp.com
 ![alt text](https://github.com/jenizar/heroku-sapui5-mockd-internal/blob/main/Screenshot/Screenshot%20from%202021-12-19%2016-29-10.png)
 
 ![alt text](https://github.com/jenizar/heroku-sapui5-mockd-internal/blob/main/Screenshot/Screenshot%20from%202021-12-19%2016-29-23.png)
+
+References:
+
+1. https://github.com/jenizar/heroku-sapui5-covid19-tracker
+
+2. https://github.com/jenizar/sap-ui5-walkthrough
+
+3. https://github.com/jenizar/SAP-Fiori-Worklist-Template 
+
+3. 
