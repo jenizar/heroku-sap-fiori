@@ -43,10 +43,10 @@ https://jenizar-sapui5-mockd.herokuapp.com
 
 References:
 
-1. https://github.com/jenizar/heroku-sapui5-covid19-tracker
+1. `https://github.com/jenizar/heroku-sapui5-covid19-tracker`
 
-2. https://github.com/jenizar/sap-ui5-walkthrough
+2. `https://github.com/jenizar/sap-ui5-walkthrough`
 
-3. https://github.com/jenizar/SAP-Fiori-Worklist-Template 
+3. `https://github.com/jenizar/SAP-Fiori-Worklist-Template`
 
-3. 
+
